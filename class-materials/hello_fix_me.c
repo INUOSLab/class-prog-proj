@@ -1,9 +1,10 @@
 fix this C source file
-including this comments as the following instructions
+including these comments as the following instructions.
 
-"instruction"
-hello is a string
-yes is an integer number of last four digits in your student /id/
+"instruction"  \*v*/
+'hello' is a string
+'num' is an integer number of the last four digits in your student id
+e.g. 20210XXXX
 by *ypkim*
 
 #include<stdio.h>
@@ -11,6 +12,6 @@ by *ypkim*
 int main()
 {
   print(hello)
-  print(yes)
+  print(num)
   return
 }
